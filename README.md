@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Loopstudios Landing Page Screenshot](./screenshot.jpg)
+![Loopstudios Landing Page Screenshot](/screenshot.png)
 
 ### Links
 
