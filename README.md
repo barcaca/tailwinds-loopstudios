@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Loopstudios Landing Page on Frontend Mentor](https://www.frontendmentor.io/solutions/tip-calculator-appsassscss-NnY4gGJ6O_)
-- Live Site URL: [Vercel App](https://tip-calculator-app-main-blond.vercel.app)
+- Live Site URL: [Vercel App](https://tailwinds-loopstudios.vercel.app)
 
 ## My Process
 
