@@ -16,7 +16,7 @@ export function NavBar() {
   return (
     // Container for the navbar with dynamic classes based on state
     <div
-      className={`flex w-auto items-center justify-between ${
+      className={`flex items-center justify-between ${
         navbar ? "fixed top-6 z-20 w-[89%]" : "relative"
       }`}
     >
